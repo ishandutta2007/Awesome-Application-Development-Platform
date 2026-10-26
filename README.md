@@ -4,10 +4,12 @@
 
 # 🚀 Awesome Application Development Platform
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Application-Development-Platform?style=social)](https://github.com/ishandutta2007/Awesome-Application-Development-Platform/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Application-Development-Platform/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated index of top-tier low-code, no-code, and rapid application development platforms (LCAP).**  
 Featuring enterprise valuations/revenues, transparent starting prices, free tier & trial specifications, and trending open-source alternatives.
@@ -93,6 +95,22 @@ Contributions are always welcome!
 4. 💾 Commit changes (`git commit -m "feat: add platform XYZ"`).
 5. 🚀 Push to branch (`git push origin feature/add-platform`).
 6. 📬 Submit a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and using this repository! If you found this list helpful, please consider:
+- ⭐ **Starring** the repository to show support.
+- 🍴 **Forking** and contributing your favorite platforms and tools.
+- 📢 **Sharing** this project with your colleagues and developer communities.
+- ☕ **Buying a coffee / Sponsoring** the maintainer via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Application-Development-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Application-Development-Platform&type=date&legend=top-left)
 
 ---
 
