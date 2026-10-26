@@ -46,7 +46,7 @@ A comprehensive breakdown of leading SaaS application development platforms, sor
 
 ## 🔓 Open-Source Application Development Platforms
 
-Self-hostable, developer-friendly open-source alternatives for rapid application development, internal tooling, and full-stack app backends. Sorted in descending order by GitHub Stars_Counts.
+Self-hostable, developer-friendly open-source alternatives for rapid application development, internal tooling, and full-stack app backends. Sorted in descending order by GitHub_Stars_Counts.
 
 | Platform | GitHub_Stars | Tech Stack | License | Description |
 | :--- | :--- | :--- | :--- | :--- |
